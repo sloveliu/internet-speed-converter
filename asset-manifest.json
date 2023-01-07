@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/learn-internet-speed-converter/static/css/main.253df923.css",
+    "main.js": "/learn-internet-speed-converter/static/js/main.99d87b95.js",
+    "static/js/787.4ec79d1d.chunk.js": "/learn-internet-speed-converter/static/js/787.4ec79d1d.chunk.js",
+    "index.html": "/learn-internet-speed-converter/index.html",
+    "main.253df923.css.map": "/learn-internet-speed-converter/static/css/main.253df923.css.map",
+    "main.99d87b95.js.map": "/learn-internet-speed-converter/static/js/main.99d87b95.js.map",
+    "787.4ec79d1d.chunk.js.map": "/learn-internet-speed-converter/static/js/787.4ec79d1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.253df923.css",
+    "static/js/main.99d87b95.js"
+  ]
+}
